@@ -5,7 +5,13 @@
 }
 
 #poster-background {
+	display: flex;
 	background-color: black;
-	height: 600px;
-	width: 400px;
+	height: 1191px;
+	width: 842px;
+}
+#headline {
+	display: flex;
+	align-content: center;
+	color: white;
 }
