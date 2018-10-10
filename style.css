@@ -11,7 +11,7 @@
     background-size: cover;
 }
 
-#poster-background {
+.poster-background {
 	display: flex;
 	flex-wrap: wrap;
 	background-color: white;
@@ -20,7 +20,7 @@
 	margin: auto;
 }
 
-.photo {
+#photo {
 	display: flex;
 	transform: scale(.5);
 }
